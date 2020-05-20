@@ -1,2 +1,2 @@
 # proof-of-progress
-General purpose repository to document my scripts
+General purpose repository to document my progress dueing pandemic
