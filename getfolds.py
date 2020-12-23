@@ -1,3 +1,6 @@
+""" find patterns in RNA folding propensities amount all Thermococcus kodakarensis RNAs. Based on minimum free energy """
+
+
 import pandas as pd
 
 file = "./TS559_dotbracket.seq"
