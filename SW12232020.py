@@ -1,4 +1,4 @@
-""" Sere W. wants to know the histidine rations of all T. kodakarensis coding sequences"""
+""" Sere W. wants to know the histidine ratios of all T. kodakarensis coding sequences"""
 
 import pandas as pd
 from Bio import SeqIO
