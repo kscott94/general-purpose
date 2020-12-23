@@ -1,2 +1,2 @@
-# proof-of-progress
-General purpose repository to document my progress during pandemic
+# Description
+General purpose repository.
